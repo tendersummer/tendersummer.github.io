@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://narcissus.Github.io</id>
     <title>Narcissus</title>
-    <updated>2020-06-06T00:18:54.703Z</updated>
+    <updated>2020-06-06T00:28:04.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://narcissus.Github.io"/>
     <link rel="self" href="https://narcissus.Github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://narcissus.Github.io/images/avatar.png</logo>
     <icon>https://narcissus.Github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Narcissus</rights>
+    <entry>
+        <title type="html"><![CDATA[一直都是404是什么鬼……]]></title>
+        <id>https://narcissus.Github.io/post/yi-zhi-du-shi-404-shi-shi-me-gui/</id>
+        <link href="https://narcissus.Github.io/post/yi-zhi-du-shi-404-shi-shi-me-gui/">
+        </link>
+        <updated>2020-06-06T00:26:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>而且这个客户端没办法跳出打字候选框，真的是太奇怪了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>而且这个客户端没办法跳出打字候选框，真的是太奇怪了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://narcissus.Github.io/post/hello-gridea/</id>
